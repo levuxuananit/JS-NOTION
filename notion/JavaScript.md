@@ -18,5 +18,5 @@ Web Scraping: Nếu muốn đi lấy dữ liệu từ bên ngoài về(website, 
 
 ## Mục lục
 Bài viết này tập trung ghi nhận lại những kiến thức thú vị về javascript, như:
-- [[Array methods]]
+- [Array methods](Array%20methods.md)
 
