@@ -1,5 +1,5 @@
 ## JAVASCRIPT
-### Giới thiệu
+### ✅ Giới thiệu
 Javascript là ngôn ngữ lập trình bậc cao, cực kỳ linh hoạt được sử dụng chủ yếu để tao ra ứng dụng chạy trên trình duyệt web. Được tạo ra bởi Brendan Eich vào năm 1995. Nó thể viết code ở text editor và chạy nó trực tiếp trên trình duyệt mà không cần phải trải qua quá trình biên dịch như C++ hoặc Java.
 
 Javascript tập trung nâng cao sự tương tác của người dùng với trang web. Bạn có thể làm cho trang web trở nên sống động và tăng tính tương tác hơn. Trong các ứng dụng web, người ta hay dùng JS để làm các hiệu ứng đặc biệt như sliders, pop-ups, hoặc xác thực dữ liệu các form (form validations) trước khi gửi dữ liệu lên server .v.v...
@@ -16,7 +16,10 @@ Vì nó cực kỳ linh hoạt, nên gần như rất nhiều lĩnh vực mà Js
 Web Scraping: Nếu muốn đi lấy dữ liệu từ bên ngoài về(website, video, hình ảnh, thông tin...), hãy sử dụng các thư viện như Cheerio, Puppeteer hoặc Playwight.
 - **Automation:** Với một số thao tác lặp đi lặp lại, như việc release sản phẩm theo định kỳ, hoặc chạy cron job vào một thời điểm nào đó, thì Js sẽ giúp bạn!
 
-## Mục lục
+### ✅ Mục lục
 Bài viết này tập trung ghi nhận lại những kiến thức thú vị về javascript, như:
-- [Array methods](Array%20methods.md)
+1. [Data types](1-Data%20types.md) 
+2. [Functions](2-Functions.md)
+3. [Function expressions](3-Function%20expressions.md)
+4. [Array methods](Array%20methods.md)
 
